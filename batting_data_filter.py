@@ -11,7 +11,7 @@ import pandas as pd
 df = pd.read_csv('2023batting.csv')
 
 # keep wanted data columns
-columns_to_keep = ['gid', 'id', 'team', 'b_pa', 'b_ab', 'b_h', 'b_d', 'b_t', 'b_hr', 'b_rbi', 'b_w', 'b_k', 'date', 'wl']  
+columns_to_keep = ['gid', 'id', 'team', 'b_ab', 'b_h', 'b_d', 'b_t', 'b_hr', 'b_rbi', 'b_w', 'b_k', 'date', 'wl']  
 
 # new data frame
 df_filtered = df[columns_to_keep]

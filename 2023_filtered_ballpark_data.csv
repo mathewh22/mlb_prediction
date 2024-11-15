@@ -1,0 +1,31 @@
+team_name,ballpark,left_field,center_field,right_field,min_wall_height,max_wall_height
+ATL,Truist Park,335,400,325,11.0,15
+ARI,Chase Field,328,407,335,7.6,25
+BAL,Oriole Park at Camden Yards,333,400,318,7.0,21
+BOS,Fenway Park,310,420,302,3.0,37
+CHN,Wrigley Field,355,400,353,11.5,15
+CIN,Great American Ball Park,328,404,325,8.0,12
+CLE,Progressive Field,325,405,325,9.0,19
+COL,Coors Field,347,415,350,8.0,17
+CHA,Guaranteed Rate Field,330,400,335,8.0,8
+DET,Comerica Park,345,420,330,7.0,9
+HOU,Minute Maid Park,315,409,326,7.0,21
+KCA,Kauffman Stadium,330,410,330,9.0,9
+ANA,Angel Stadium,330,396,330,5.0,8
+LAN,Dodger Stadium,330,395,330,4.5,8
+MIA,loanDepot park,344,407,335,9.0,12
+MIL,American Family Field,344,400,345,8.0,8
+MIN,Target Field,339,404,328,8.0,23
+NYN,Citi Field,335,408,330,8.0,8
+NYA,Yankee Stadium,318,408,314,8.0,8
+OAK,Oakland Coliseum,330,400,330,8.0,8
+PHI,Citizens Bank Park,329,401,330,6.0,13
+PIT,PNC Park,325,399,320,6.0,21
+SDN,Petco Park,336,396,322,4.0,10
+SEA,T-Mobile Park,331,405,327,7.0,15
+SFN,Oracle Park,339,399,309,8.0,25
+SLN,Busch Stadium,336,400,335,8.0,8
+TBA,Tropicana Field,315,404,322,9.0,11
+TEX,Globe Life Field,329,407,326,8.0,14
+TOR,Rogers Centre,328,404,328,8.0,8
+WAS,Nationals Park,336,402,335,8.0,12
