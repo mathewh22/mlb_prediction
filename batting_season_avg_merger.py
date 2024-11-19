@@ -5,14 +5,7 @@ Created on Fri Nov 15 02:01:21 2024
 @author: skrut
 """
 import csv
-
-name_id_map = {}
-with open('2023allplayers.csv', 'r') as name_file:  
-    name_reader = csv.DictReader(name_file)
-    for row in name_reader:
-        # Create full name and map it to the player ID
-        name_id_map[row['id']] = f"{row['first']} {row['last']}"
-        
+  
 # Initialize dictionaries for aggregated statistics
 season_avg_data = {}
 
